@@ -1,5 +1,6 @@
 public class MyClass {
     public static void main (String[] args){
-        System.out.println("hola mundo");
+        String MiMensaje="hola mundo";
+        System.out.println(MiMensaje); //esto es un comentario como en C++ en una linea
     }
 }
